@@ -7,18 +7,36 @@ mais complexos até um computador completo.
 Um simulador (chamado [Digital](https://github.com/hneemann/Digital)) será usado para
 que os participantes do workshop possam experimentar todos os circuitos apresentados.
 
-## 1. Chaves, Portas Lógicas, Circuitos Combinacionais
-## 2. Circuitos Sequenciais
-## 3. Processadores
-## 4. FPGAs e Shin JAMMA
-## 5. Vídeo
-## 6. RISC-V
+## [1. Chaves, Portas Lógicas, Circuitos Combinacionais](1.comb.md)
 
-Além do material apresentado no workshop, os apêndices mostram projetos mais avançados
-que extended os conceitos já visto em três direções diferente. Também é incluída uma
-história do projeto Pegasus.
+Estes são os blocos básicos dos circuitos digitais.
 
-## A. PPU
-## B. Caches e SDRAM
-## C. Microeletrônica
-## D. História
+## [2. Circuitos Sequenciais](2.seq.md)
+
+Circuitos mais complexos precisam de memória.
+
+## [3. Processadores](3.cpu.md)
+
+O mcpu16h é um processador muito símples com apenas 4 instruções, servindo como uma
+boa introdução enquanto o drv32h é mais prático, sendo compatível com o padrão RISC-V
+
+## [4. FPGAs e Shin JAMMA](4.fpga.md)
+
+Com circuitos reconfiguráveis (as FPGA - Field Programmable Gate Arrays ou matrizes de portas
+programáveis em campo) é possível ver os circuitos simulados funcionando no mundo real. Como
+existem muitas placas de FPGA diferentes foi criado o padrão Shin JAMMA para que o mesmo
+projeto funcione em todas elas
+
+## [5. Vídeo e Áudio](5.av.md)
+
+Apesar de ser possível criar jogos interessante usando o terminal texto, saída gráfica colorida
+e som como aqueles gerados pelo clássico Nintendinho (NES ou Famicom) permitem jogos mais divertidos
+
+## [6. Pegasus 42](6.pegasus42.md)
+
+Com memória cache e gráficos de alta resolução fica viável rodar a linguagem Squeak Smalltalk
+
+## [A. História](A.hist.md)
+
+Além do material apresentado no workshop, é incluída uma
+história do projeto Pegasus na forma de um apêndice.

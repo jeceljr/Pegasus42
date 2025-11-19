@@ -15,7 +15,7 @@ mais complexos até um computador completo.
 Um simulador (chamado [Digital](https://github.com/hneemann/Digital)) será usado para
 que os participantes do workshop possam experimentar todos os circuitos apresentados.
 
-O computador final, o Pegasus 42 Jr, usa uma implementação simplificada de um processador (drv1c32e)
+O computador final, o Pegasus 42 Jr, usa uma implementação simplificada de um processador (drv32eh)
 compatível com a versão de 32 bits da arquitetura padrão [RISC-V](https://riscv.org/)
 e um circuito de vídeo de baixa resolução. Isso é suficiente para a programação de jogos
 no estilo do início dos anos 1980.
