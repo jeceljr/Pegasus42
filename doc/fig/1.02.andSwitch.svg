@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Fri Nov 21 17:11:20 BRT 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="54.75mm"
+   height="13.2mm"
+   viewBox="628 249 365 88">
+<g stroke-linecap="square">
+<path d="M 730,295 L 750,295" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 830,295 L 850,295" stroke="#000000" stroke-width="2.0" fill="none"/>
+<path d="M 640,260 L 640,320 L 720,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 760,320 L 820,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 860,320 L 960,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 740,315 L 740,295" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<path d="M 840,315 L 840,295" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<path d="M 720,320 L 756,310" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 820,320 L 856,310" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 640,254 L 640,260" stroke="#000000" stroke-width="4.0" fill="none"/>
+<g>
+</g>
+<g>
+<circle cx="720.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="760.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="820.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="860.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="976.0" cy="320.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="#000000" />
+<circle cx="976.0" cy="320.0" r="13.0" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" />
+<circle cx="960.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 630,264 L 640,251 L 650,264" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="640.0" cy="260.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+</g>
+</svg>
