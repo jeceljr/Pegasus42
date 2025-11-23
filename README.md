@@ -1,8 +1,8 @@
 # Pegasus 42
 
 
-- Texto em Português em [markdown]](doc/pt-br/README.md) ou [PDF](doc/pt-br/Pegasus42.pdf)
-- Text in English in [makrdown]](doc/en-us/README.md) or [PDF](doc/en-us/Pegasus42.pdf)
+- Texto em Português em [markdown](doc/pt-br/README.md) ou [PDF](doc/pt-br/Pegasus42.pdf)
+- Text in English in [markdown](doc/en-us/README.md) or [PDF](doc/en-us/Pegasus42.pdf)
 
 ![Workshop Gambiconf](doc/fig/gambiconf2025workshop.jpg)
 
