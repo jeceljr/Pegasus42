@@ -40,3 +40,5 @@ Com memória cache e gráficos de alta resolução fica viável rodar a linguage
 
 Além do material apresentado no workshop, é incluída uma
 história do projeto Pegasus na forma de um apêndice.
+
+

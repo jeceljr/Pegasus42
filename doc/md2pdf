@@ -1,0 +1,2 @@
+#!/bin/sh
+awk '{if ($0 ~ /## \[/) {gsub(/## \[/,"");gsub(/\].*/,"");print "## ",$0} else {print $0}}' README.md | cat -  1.comb.md  2.seq.md  3.cpu.md  4.fpga.md  5.av.md  6.pegasus42.md  A.hist.md | awk 'BEGIN{links=1};{if($0 ~ /^---/){links=1-links}else{if(links){print}}}' | pandoc -o Pegasus42.pdf
