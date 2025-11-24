@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Nov 24 16:55:50 BRT 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="77.25mm"
+   height="53.85mm"
+   viewBox="515 143 515 359">
+<g stroke-linecap="square">
+<path d="M 672,175 L 697,175 L 722,175" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 672,210 L 697,210 L 697,185 L 722,185" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 672,245 L 697,245 L 722,245" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 620,320 L 740,320" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 840,340 L 880,340 L 960,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 840,420 L 860,420 L 960,420" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 620,440 L 740,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 740,400 L 680,400 L 680,500 L 880,500 L 880,340" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 860,420 L 860,480 L 700,480 L 700,360 L 740,360" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 672,180 L 722,180" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<path d="M 672,215 L 722,215" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<path d="M 722,145 L 672,145 L 672,250 L 722,250 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<path d="M 697,145 L 697,250" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+<g>
+<circle cx="880.0" cy="340.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="860.0" cy="420.0" r="4.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<path d="M 790,370 L 741,370 L 741,310 L 790,310 C 800,310 820,320 819,340 C 819,360 800,370 790,370 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="830.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="740.0" cy="320.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="740.0" cy="360.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="840.0" cy="340.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 589,305 L 619,305 L 619,335 L 589,335 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="604.0" cy="320.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="575.0" y="329.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">!reset</tspan></text>
+<circle cx="620.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="976.0" cy="340.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="976.0" cy="340.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="1005.0" y="349.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">!Q</tspan></text>
+<circle cx="960.0" cy="340.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<text text-anchor="end" x="670.0" y="171.0" fill="#000000" style="font-size:24px">A</text>
+<text text-anchor="end" x="670.0" y="206.0" fill="#000000" style="font-size:24px">B</text>
+<text text-anchor="end" x="670.0" y="241.0" fill="#000000" style="font-size:24px">C</text>
+</g>
+<g>
+<path d="M 790,450 L 741,450 L 741,390 L 790,390 C 800,390 820,400 819,420 C 819,440 800,450 790,450 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="830.0" cy="420.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="740.0" cy="400.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="740.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="840.0" cy="420.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 589,425 L 619,425 L 619,455 L 589,455 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="604.0" cy="440.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="575.0" y="449.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">!set</tspan></text>
+<circle cx="620.0" cy="440.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="976.0" cy="420.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="976.0" cy="420.0" r="15.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="start" x="1005.0" y="429.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Q</tspan></text>
+<circle cx="960.0" cy="420.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+</g>
+</svg>
