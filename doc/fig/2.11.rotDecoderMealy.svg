@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Nov 24 21:10:15 BRT 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="129.6mm"
+   height="129.6mm"
+   viewBox="-432 -432 864 864">
+<g stroke-linecap="square">
+<circle cx="0.0" cy="-360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="0.0" y="-375.0" fill="#000000" style="font-size:24px">6</text>
+<text text-anchor="middle" x="0.0" y="-351.0" fill="#000000" style="font-size:24px">top</text>
+<circle cx="360.0" cy="-120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="360.0" y="-135.0" fill="#000000" style="font-size:24px">1</text>
+<text text-anchor="middle" x="360.0" y="-111.0" fill="#000000" style="font-size:24px">leftTop</text>
+<circle cx="360.0" cy="120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="360.0" y="105.0" fill="#000000" style="font-size:24px">2</text>
+<text text-anchor="middle" x="360.0" y="129.0" fill="#000000" style="font-size:24px">leftBottom</text>
+<circle cx="0.0" cy="360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="0.0" y="345.0" fill="#000000" style="font-size:24px">3</text>
+<text text-anchor="middle" x="0.0" y="369.0" fill="#000000" style="font-size:24px">bottom</text>
+<circle cx="-360.0" cy="120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-360.0" y="105.0" fill="#000000" style="font-size:24px">4</text>
+<text text-anchor="middle" x="-360.0" y="129.0" fill="#000000" style="font-size:24px">rightBottom</text>
+<circle cx="-360.0" cy="-120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-360.0" y="-135.0" fill="#000000" style="font-size:24px">5</text>
+<text text-anchor="middle" x="-360.0" y="-111.0" fill="#000000" style="font-size:24px">rightTop</text>
+<circle cx="0.0" cy="0.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-120.10434" cy="-49.748848" r="10.0" stroke="#000000" stroke-width="4.0" fill="#000000" />
+<path d="M -107.17003,-44.39128 Q -87.768555,-36.354927 -68.36709,-28.318575" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -89.140785,-30.428967 L -66.51933,-27.553207 L -84.54858,-41.515522" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="0.0" y="-15.0" fill="#000000" style="font-size:24px">0</text>
+<text text-anchor="middle" x="0.0" y="9.0" fill="#000000" style="font-size:24px">init</text>
+<path d="M 72.69799,-373.82034 Q 286.01144,-397.73035 344.38556,-194.3787" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 333.10013,-211.94682 L 344.93738,-192.45633 L 344.6343,-215.25783" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="247.27661" y="-331.91492" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=0</tspan></text>
+<path d="M -72.69584,-373.8317 Q -286.0487,-397.78644 -344.39716,-194.38113" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -344.6498,-215.26021 L -344.94864,-192.45866 L -333.11502,-211.95137" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-247.2976" y="-331.9464" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=1</tspan></text>
+<path d="M -312.31,-176.58324 Q -207.40895,-282.84473 -72.48037,-337.13965" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -88.79468,-324.10724 L -70.624954,-337.88626 L -93.27437,-335.23975" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-199.90207" y="-260.8531" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 312.2942,-176.56993 Q 207.37857,-282.79932 72.47399,-337.11942" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 93.26757,-335.21487 L 70.618744,-337.86646 L 88.78541,-324.0834" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="199.88133" y="-260.822" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 72.69799,373.82034 Q 286.01144,397.73035 344.38556,194.3787" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 344.6343,215.25783 L 344.93738,192.45633 L 333.10013,211.94682" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="247.27661" y="349.91492" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=0</tspan></text>
+<path d="M -72.69799,373.82034 Q -286.01144,397.73035 -344.38556,194.3787" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -333.10013,211.94682 L -344.93738,192.45633 L -344.6343,215.25783" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-247.27661" y="349.91492" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=1</tspan></text>
+<path d="M -312.2942,176.56993 Q -207.37857,282.79932 -72.47399,337.11942" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -93.26757,335.21487 L -70.618744,337.86646 L -88.78541,324.0834" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-199.88133" y="278.822" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M 312.2942,176.56993 Q 207.37857,282.79932 72.47399,337.11942" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 88.78541,324.0834 L 70.618744,337.86646 L 93.26757,335.21487" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="199.88133" y="278.822" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M -318.85248,58.494877 Q -190.96204,-129.46971 -48.808033,-301.74387" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -56.9093,-282.49887 L -47.53512,-303.2865 L -66.16505,-290.13638" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-187.39615" y="-128.5471" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<text text-anchor="middle" x="-187.39615" y="-104.547104" fill="#000000" style="font-size:24px">definido <tspan style="font-style:italic;">R=1</tspan></text>
+<path d="M -318.84552,-58.499508 Q -190.9378,129.45155 -48.801464,301.73837" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -66.15735,290.12918 L -47.528698,303.28113 L -56.900864,282.49258" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-187.38065" y="122.53549" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<text text-anchor="middle" x="-187.38065" y="146.53549" fill="#000000" style="font-size:24px">definido <tspan style="font-style:italic;">L=1</tspan></text>
+<path d="M 318.8458,-58.49933 Q 190.93875,129.45227 48.801727,301.7386" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 56.9012,282.49286 L 47.528957,303.28134 L 66.15766,290.12946" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="187.38126" y="122.53595" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<text text-anchor="middle" x="187.38126" y="146.53595" fill="#000000" style="font-size:24px">definido <tspan style="font-style:italic;">R=1</tspan></text>
+<path d="M 318.84634,58.498962 Q 190.94066,-129.4537 48.80225,-301.739" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 66.15827,-290.13004 L 47.52947,-303.28174 L 56.90187,-282.49332" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="187.38248" y="-128.53687" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<text text-anchor="middle" x="187.38248" y="-104.536865" fill="#000000" style="font-size:24px">definido <tspan style="font-style:italic;">L=1</tspan></text>
+<path d="M -0.0033879515,-74 Q -0.005984509,-181 -0.003479518,-284" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 5.996034,-263.99985 L -0.0034308773,-286 L -6.003966,-264.00015" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-0.004709122" y="-171.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M -1.2422143E-4,74 Q -2.194259E-4,181 -1.2757877E-4,284" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -6.0001454,264 L -1.2579533E-4,286 L 5.9998546,264" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-1.72663E-4" y="189.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+</g>
+</svg>

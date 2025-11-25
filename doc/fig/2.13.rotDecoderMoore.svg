@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Nov 24 21:41:32 BRT 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="160.2mm"
+   height="142.8mm"
+   viewBox="-534 -476 1068 952">
+<g stroke-linecap="square">
+<circle cx="0.0" cy="0.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<circle cx="-130.0" cy="0.0" r="10.0" stroke="#000000" stroke-width="4.0" fill="#000000" />
+<path d="M -116,-1.4205902E-14 Q -95,-1.1634144E-14 -74,-9.062386E-15" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -94,6 L -72,-8.817456E-15 L -94,-6" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="0.0" y="-15.0" fill="#000000" style="font-size:24px">0</text>
+<text text-anchor="middle" x="0.0" y="9.0" fill="#000000" style="font-size:24px">init</text>
+<circle cx="0.0" cy="-360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="0.0" y="-375.0" fill="#000000" style="font-size:24px">1</text>
+<text text-anchor="middle" x="0.0" y="-351.0" fill="#000000" style="font-size:24px">top</text>
+<circle cx="360.0" cy="-360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="360.0" y="-375.0" fill="#000000" style="font-size:24px">2</text>
+<text text-anchor="middle" x="360.0" y="-351.0" fill="#000000" style="font-size:24px">topSetLeft</text>
+<text text-anchor="middle" x="360.0" y="-327.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">L=1</tspan></text>
+<circle cx="300.0" cy="-120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="300.0" y="-135.0" fill="#000000" style="font-size:24px">3</text>
+<text text-anchor="middle" x="300.0" y="-111.0" fill="#000000" style="font-size:24px">leftTop</text>
+<circle cx="300.0" cy="120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="300.0" y="105.0" fill="#000000" style="font-size:24px">4</text>
+<text text-anchor="middle" x="300.0" y="129.0" fill="#000000" style="font-size:24px">leftBottom</text>
+<circle cx="360.0" cy="360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="360.0" y="345.0" fill="#000000" style="font-size:24px">5</text>
+<text text-anchor="middle" x="360.0" y="369.0" fill="#000000" style="font-size:24px">bottomSetRight</text>
+<text text-anchor="middle" x="360.0" y="393.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">R=1</tspan></text>
+<circle cx="0.0" cy="360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="0.0" y="345.0" fill="#000000" style="font-size:24px">6</text>
+<text text-anchor="middle" x="0.0" y="369.0" fill="#000000" style="font-size:24px">bottom</text>
+<circle cx="-360.0" cy="360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-360.0" y="345.0" fill="#000000" style="font-size:24px">7</text>
+<text text-anchor="middle" x="-360.0" y="369.0" fill="#000000" style="font-size:24px">bottomSetLeft</text>
+<text text-anchor="middle" x="-360.0" y="393.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">L=1</tspan></text>
+<circle cx="-300.0" cy="120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-300.0" y="105.0" fill="#000000" style="font-size:24px">8</text>
+<text text-anchor="middle" x="-300.0" y="129.0" fill="#000000" style="font-size:24px">rightBottom</text>
+<circle cx="-300.0" cy="-120.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-300.0" y="-135.0" fill="#000000" style="font-size:24px">9</text>
+<text text-anchor="middle" x="-300.0" y="-111.0" fill="#000000" style="font-size:24px">rightTop</text>
+<circle cx="-360.0" cy="-360.0" r="70.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="middle" x="-360.0" y="-375.0" fill="#000000" style="font-size:24px">10</text>
+<text text-anchor="middle" x="-360.0" y="-351.0" fill="#000000" style="font-size:24px">topSetRight</text>
+<text text-anchor="middle" x="-360.0" y="-327.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">R=1</tspan></text>
+<path d="M -1.0914758E-6,-74 Q -1.9279928E-6,-181 -1.1209752E-6,-284" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 5.9999986,-264 L -1.1053049E-6,-286 L -6.0000014,-264" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-1.5171092E-6" y="-171.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 4.3910927E-6,74 Q 7.756467E-6,181 4.5097713E-6,284" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -5.9999948,264 L 4.446729E-6,286 L 6.0000052,264" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="6.10345E-6" y="189.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M 73.87091,-355.63092 Q 220.59308,-326.9345 278.96844,-193.03201" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 265.4758,-208.96777 L 279.7677,-191.19865 L 276.47592,-213.76334" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="198.50638" y="-291.633" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=0</tspan></text>
+<path d="M -73.87091,-355.63092 Q -220.59308,-326.9345 -278.96844,-193.03201" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -276.47592,-213.76334 L -279.7677,-191.19865 L -265.4758,-208.96777" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-198.50638" y="-291.633" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=1</tspan></text>
+<path d="M 310.3664,-414.8863 Q 179.32927,-531.85693 50.97506,-416.3697" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 61.829575,-434.20728 L 49.48829,-415.03195 L 69.85594,-425.28668" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -310.3664,-414.8863 Q -179.32928,-531.8569 -50.975048,-416.36972" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -69.85594,-425.28665 L -49.488277,-415.03198 L -61.82958,-434.2073" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -240.32513,-163.7597 Q -145.42252,-235.87752 -57.299633,-310.07254" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -68.734634,-292.6014 L -55.76969,-311.3607 L -76.463425,-301.78104" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-147.11745" y="-227.39682" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M -358.455,74.623634 Q -552.21924,-92.934525 -406.7162,-300.05338" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -413.30338,-280.239 L -405.5665,-301.6899 L -423.1226,-287.1371" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-467.4024" y="-93.8247" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 240.32513,-163.7597 Q 145.42252,-235.87752 57.299633,-310.07254" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 76.463425,-301.78104 L 55.76969,-311.3607 L 68.734634,-292.6014" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="147.11745" y="-227.39682" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 358.455,74.623634 Q 552.21924,-92.934525 406.7162,-300.05338" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 423.1226,-287.1371 L 405.5665,-301.6899 L 413.30338,-280.239" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="467.4024" y="-93.8247" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=0</tspan></text>
+<path d="M 73.87091,355.63092 Q 220.59308,326.9345 278.96844,193.03201" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 276.47592,213.76334 L 279.7677,191.19865 L 265.4758,208.96777" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="198.50638" y="309.633" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=0</tspan></text>
+<path d="M -73.87091,355.63092 Q -220.59308,326.9345 -278.96844,193.03201" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -265.4758,208.96777 L -279.7677,191.19865 L -276.47592,213.76334" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-198.50638" y="309.633" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=0 &amp; B=1</tspan></text>
+<path d="M 310.3664,414.8863 Q 179.32928,531.8569 50.975048,416.36972" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 69.85594,425.28665 L 49.488277,415.03198 L 61.82958,434.2073" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -310.3664,414.8863 Q -179.32927,531.85693 -50.97506,416.3697" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -61.829575,434.20728 L -49.48829,415.03195 L -69.85594,425.28668" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -240.32513,163.7597 Q -145.42252,235.87752 -57.299633,310.07254" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -76.463425,301.78104 L -55.76969,311.3607 L -68.734634,292.6014" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-147.11745" y="245.39682" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M -358.455,-74.623634 Q -552.21924,92.934525 -406.7162,300.05338" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M -423.1226,287.1371 L -405.5665,301.6899 L -413.30338,280.239" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="-467.4024" y="111.8247" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M 240.32513,163.7597 Q 145.42252,235.87752 57.299633,310.07254" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 68.734634,292.6014 L 55.76969,311.3607 L 76.463425,301.78104" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="147.11745" y="245.39682" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+<path d="M 358.455,-74.623634 Q 552.21924,92.934525 406.7162,300.05338" stroke="#808080" stroke-width="2.0" fill="none"/>
+<path d="M 413.30338,280.239 L 405.5665,301.6899 L 423.1226,287.1371" stroke="#808080" stroke-width="2.0" fill="none"/>
+<text text-anchor="middle" x="467.4024" y="111.8247" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">A=1 &amp; B=1</tspan></text>
+</g>
+</svg>
