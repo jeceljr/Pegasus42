@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Tue Nov 25 04:15:49 BRT 2025 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="63.45mm"
+   height="32.4mm"
+   viewBox="399 78 423 216">
+<g stroke-linecap="square">
+<path d="M 500,240 L 680,240" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 740,240 L 820,240 L 820,80 L 540,80 L 540,120 L 560,120" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 520,160 L 560,160" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 640,260 L 680,260" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 620,120 L 660,120 L 660,220 L 680,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 520,140 L 560,140" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<g>
+</g>
+<g>
+<path d="M 681,210 L 739,210 L 739,270 L 681,270 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="middle" x="710.0" y="202.0" fill="#000000" style="font-size:24px">PC</text>
+<text text-anchor="start" x="684.0" y="226.75" fill="#808080" style="font-size:18px">D</text>
+<path d="M 681,247 L 688,240 L 681,233" stroke="#000000" stroke-width="2.0" fill="none"/>
+<text text-anchor="start" x="691.0" y="246.75" fill="#808080" style="font-size:18px">C</text>
+<text text-anchor="start" x="684.0" y="266.75" fill="#808080" style="font-size:18px">en</text>
+<text text-anchor="end" x="736.0" y="246.75" fill="#808080" style="font-size:18px">Q</text>
+<text text-anchor="middle" x="710.0" y="287.5" fill="#808080" style="font-size:18px">Reg</text>
+<circle cx="680.0" cy="220.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="680.0" cy="240.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="680.0" cy="260.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="740.0" cy="240.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 469,225 L 499,225 L 499,255 L 469,255 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="end" x="455.0" y="249.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">clock</tspan></text>
+<path d="M 475,245 L 480,245 L 480,235 L 485,235 L 485,245 L 490,245 L 490,235 L 495,235" stroke="#000000" stroke-width="2.0" fill="none"/>
+<circle cx="500.0" cy="240.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 561,110 L 619,110 L 619,170 L 561,170 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<text text-anchor="start" x="564.0" y="126.75" fill="#808080" style="font-size:18px">a</text>
+<text text-anchor="start" x="564.0" y="146.75" fill="#808080" style="font-size:18px">b</text>
+<text text-anchor="start" x="564.0" y="166.75" fill="#808080" style="font-size:18px">c<tspan style="font-size:80%;baseline-shift:sub;">i</tspan></text>
+<text text-anchor="end" x="616.0" y="126.75" fill="#808080" style="font-size:18px">s</text>
+<text text-anchor="end" x="616.0" y="146.75" fill="#808080" style="font-size:18px">c<tspan style="font-size:80%;baseline-shift:sub;">o</tspan></text>
+<text text-anchor="middle" x="590.0" y="187.5" fill="#808080" style="font-size:18px">Soma</text>
+<circle cx="560.0" cy="120.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="560.0" cy="140.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="560.0" cy="160.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="620.0" cy="120.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+<circle cx="620.0" cy="140.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<text text-anchor="end" x="517.0" y="149.0" fill="#000000" style="font-size:24px">0</text>
+<circle cx="520.0" cy="140.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<text text-anchor="end" x="517.0" y="169.0" fill="#000000" style="font-size:24px">1</text>
+<circle cx="520.0" cy="160.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<text text-anchor="end" x="637.0" y="269.0" fill="#000000" style="font-size:24px">1</text>
+<circle cx="640.0" cy="260.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+</g>
+</svg>
