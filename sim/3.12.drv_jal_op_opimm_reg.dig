@@ -373,16 +373,16 @@ C 0 0</dataString>
           <string>Testdata</string>
           <testData>
             <dataString>clock PC OP
-program(0x00100093,0x001080B3, 0xFFDF06F)
+program(0x00100093,0x001080B3, 0xFFDFF06F)
 #   1 0000 93001000 	 addi x1,zero,1
 #   2 0004 B3801000 	loop:add x1,x1,x1
 #   3 0008 6FF0DFFF 	 jal zero,loop
 0 0 0
 C 4 1
 C 8 0
-C C 0
-C 10 1
-C 14 0</dataString>
+C 4 1
+C 8 0
+C 4 1</dataString>
           </testData>
         </entry>
       </elementAttributes>
