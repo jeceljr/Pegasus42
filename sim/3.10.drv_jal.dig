@@ -320,7 +320,7 @@
           <string>Testdata</string>
           <testData>
             <dataString>clock PC
-program(0x00000000,0xFFDFFFEF)
+program(0x00000013,0xFFDFFFEF)
 0 0
 C 4
 C 0
