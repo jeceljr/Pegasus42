@@ -134,7 +134,12 @@
     </visualElement>
     <visualElement>
       <elementName>Const</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>Value</string>
+          <long>0</long>
+        </entry>
+      </elementAttributes>
       <pos x="1480" y="260"/>
     </visualElement>
     <visualElement>
@@ -3247,6 +3252,59 @@ C 4 X</dataString>
       </elementAttributes>
       <pos x="60" y="240"/>
     </visualElement>
+    <visualElement>
+      <elementName>Testcase</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>branch</string>
+        </entry>
+        <entry>
+          <string>Testdata</string>
+          <testData>
+            <dataString>clock PC Result LT LTU NE
+program(0x00200313,0x00730663,0x006003B3,0xFE730AE3,0x00034063,0xFFF30313,0xFE63DCE3,0xFF5FF06F)
+#   1 0000 13032000 	start:addi x6,zero,2
+#   2 0004 63067300 	 beq x6,x7,halt
+#   3 0008 B3036000 	 add x7,zero,x6
+#   4 000c E30A73FE 	 beq x6,x7,start
+#   5 0010 63400300 	halt:blt x6,zero,halt
+#   6 0014 1303F3FF 	 addi x6,x6,-1
+#   7 0018 E3DC63FE 	 bge x7,x6,halt
+#   8 001c 6FF05FFF 	 jal zero,halt
+0 0 2 X X X
+C 4 X X X X
+C 8 2 X X X
+C 12 X X X X
+C 0 2 X X X
+C 4 X X X X
+C 16 X X X X
+C 20 1 X X X
+C 24 X X X X
+C 16 X X X X
+C 20 0 X X X
+C 24 X X X X
+C 16 X X X X
+C 20 (-1) X X X
+C 24 X X X X
+C 16 X X X X
+C 16 X X X X
+C 16 X X X X</dataString>
+          </testData>
+        </entry>
+      </elementAttributes>
+      <pos x="600" y="1300"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Probe</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>NE</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1180" y="2660"/>
+    </visualElement>
   </visualElements>
   <wires>
     <wire>
@@ -4464,6 +4522,10 @@ C 4 X</dataString>
     <wire>
       <p1 x="1100" y="2660"/>
       <p2 x="1120" y="2660"/>
+    </wire>
+    <wire>
+      <p1 x="1120" y="2660"/>
+      <p2 x="1180" y="2660"/>
     </wire>
     <wire>
       <p1 x="920" y="360"/>
