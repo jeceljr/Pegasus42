@@ -14,7 +14,7 @@
     </entry>
     <entry>
       <string>preloadProgramFile</string>
-      <file>/home/jecel/mygit/Pegasus42/hex/3.04.sine.hex</file>
+      <file>../hex/3.04.sine.hex</file>
     </entry>
   </attributes>
   <visualElements>

@@ -14,7 +14,7 @@
     </entry>
     <entry>
       <string>preloadProgramFile</string>
-      <file>/home/jecel/old.jecel/mario/Pegasus42/hex/3.05.mandelbrot.hex</file>
+      <file>../hex/3.05.mandelbrot.hex</file>
     </entry>
   </attributes>
   <visualElements>
